@@ -1,9 +1,7 @@
-# Regression_Line_Fitting
----
-tags: Academic
----
+# Regression Line Fitting
 
-# CVLab 2021 Winter Project 
+
+### CVLab 2021 Winter Project 
 
 ###### Dead line: 2021/02/10
 
